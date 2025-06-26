@@ -1,0 +1,5 @@
+I - Insight
+Q - Question
+A - Answer
+
+I1 - In the describe function, include = "all" parameter makes sure to include all the columns while drawing the statistics table.
