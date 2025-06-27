@@ -17,7 +17,7 @@ To build an intelligent ML system that analyzes student profiles (GPA, programmi
 - Model evaluation using accuracy, F1 score, etc.
 - ML pipeline with feature preprocessing and hyperparameter tuning
 - Web API to accept student input and return career prediction (Not decided yet)
-- Clean modular code and deployable architecture
+- Clean, modular code and deployable architecture
 
 ---
 
