@@ -84,3 +84,7 @@ desktop.ini
 
 # Jupyter Notebook hidden metadata
 *.nbconvert.ipynb
+
+#Temporary files
+*.tmp
+~$*
